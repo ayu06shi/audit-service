@@ -11,3 +11,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+app.db
+.pytest_cache/
